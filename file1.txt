@@ -1,2 +1,2 @@
 file 1
-riga 2S
+riga oscar
